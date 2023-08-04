@@ -1,3 +1,3 @@
-# boolean_cell_model
+# Boolean Cell Model
 
-This repo contains a simulation of a genomics model in C++.
+This repo contains a simulation of a boolean genomics model in C++.
